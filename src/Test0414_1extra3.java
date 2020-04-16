@@ -7,7 +7,7 @@ public class Test0414_1extra3 {
 
 		// 배열 요소 1개에 접근 : 배열이름[행번호][열번호]
 		// 1행 2열의 데이터 출력
-		System.out.println(ar[1][2]);
+	//	System.out.println(ar[1][2]);
 		// 데이터 개수 파악
 		System.out.println("ar:" + ar.length);
 		System.out.println("ar[0]:" + ar[0].length);
